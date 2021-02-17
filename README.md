@@ -9,3 +9,7 @@ other dependencices
 
 install ImageAi 
 ```pip install imageai ```
+
+To run the main.py file 
+
+```python main.py ```
